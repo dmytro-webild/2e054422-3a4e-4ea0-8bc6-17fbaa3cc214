@@ -50,16 +50,16 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           background={{ variant: "grid" }}
           leftCarouselItems={[
-            { imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11835.jpg", imageAlt: "Expert mechanic performing engine maintenance" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11835.jpg?_wi=1", imageAlt: "Expert mechanic performing engine maintenance" },
             { imageSrc: "http://img.b2bpic.net/free-photo/high-angle-arrangement-with-tools_23-2148932612.jpg", imageAlt: "Professional engine diagnostic service" },
             { imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11837.jpg", imageAlt: "Transmission system maintenance" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11835.jpg", imageAlt: "Quality automotive repair work" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/mechanics-repairing-car-workshop_329181-11835.jpg?_wi=2", imageAlt: "Quality automotive repair work" }
           ]}
           rightCarouselItems={[
-            { imageSrc: "http://img.b2bpic.net/free-photo/mechanic-explaining-quotation-customer_1170-1554.jpg", imageAlt: "Precision brake system inspection" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/mechanic-explaining-quotation-customer_1170-1554.jpg?_wi=1", imageAlt: "Precision brake system inspection" },
             { imageSrc: "http://img.b2bpic.net/free-photo/mechanic-fixing-car-brake_1170-1663.jpg", imageAlt: "Professional brake service" },
             { imageSrc: "http://img.b2bpic.net/free-photo/young-mechanic-work-clothes-yellow-hardhat-using-wrench-changing-car-wheel-outdoor_574295-2003.jpg", imageAlt: "Tire alignment and maintenance" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/mechanic-explaining-quotation-customer_1170-1554.jpg", imageAlt: "Vehicle diagnostic service" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/mechanic-explaining-quotation-customer_1170-1554.jpg?_wi=2", imageAlt: "Vehicle diagnostic service" }
           ]}
           carouselPosition="right"
           buttons={[
@@ -136,12 +136,12 @@ export default function LandingPage() {
           tagIcon={Star}
           tagAnimation="slide-up"
           testimonials={[
-            { id: "1", name: "Michael Johnson", handle: "Regular Customer", testimonial: "One Stop Autos fixed my transmission issue in one day. Professional service and honest pricing. Highly recommended!", imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-woman-taking-selfie-photo-winking_1262-18343.jpg", imageAlt: "Michael Johnson" },
-            { id: "2", name: "Sarah Martinez", handle: "Fleet Manager", testimonial: "We take all our company vehicles here. Reliable, fast, and the team knows what they're doing. Five stars!", imageSrc: "http://img.b2bpic.net/free-photo/man-mechanic-woman-customer-discussing-repairs-done-her-vehicle_146671-14209.jpg", imageAlt: "Sarah Martinez" },
+            { id: "1", name: "Michael Johnson", handle: "Regular Customer", testimonial: "One Stop Autos fixed my transmission issue in one day. Professional service and honest pricing. Highly recommended!", imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-woman-taking-selfie-photo-winking_1262-18343.jpg?_wi=1", imageAlt: "Michael Johnson" },
+            { id: "2", name: "Sarah Martinez", handle: "Fleet Manager", testimonial: "We take all our company vehicles here. Reliable, fast, and the team knows what they're doing. Five stars!", imageSrc: "http://img.b2bpic.net/free-photo/man-mechanic-woman-customer-discussing-repairs-done-her-vehicle_146671-14209.jpg?_wi=1", imageAlt: "Sarah Martinez" },
             { id: "3", name: "David Chen", handle: "Business Owner", testimonial: "Best mechanic shop in town. They saved me thousands by diagnosing the real problem instead of guessing.", imageSrc: "http://img.b2bpic.net/free-photo/young-worried-businessman-talking-with-african-american-auto-mechanic-about-costs-car-reparation-auto-repair-shop_637285-4251.jpg", imageAlt: "David Chen" },
             { id: "4", name: "Jennifer Lopez", handle: "Returning Customer", testimonial: "Been going to One Stop for 5 years. Never disappointed. Great customer service and quality work every time.", imageSrc: "http://img.b2bpic.net/free-photo/happy-couple-car-showroom-dealership_23-2149117172.jpg", imageAlt: "Jennifer Lopez" },
-            { id: "5", name: "Robert Taylor", handle: "Fleet Operator", testimonial: "Fast turnaround, competitive pricing, and they stand behind their work. Exactly what a business needs.", imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-woman-taking-selfie-photo-winking_1262-18343.jpg", imageAlt: "Robert Taylor" },
-            { id: "6", name: "Amanda White", handle: "Loyal Customer", testimonial: "The team took time to explain what was wrong and what needed to be done. Transparency and professionalism.", imageSrc: "http://img.b2bpic.net/free-photo/man-mechanic-woman-customer-discussing-repairs-done-her-vehicle_146671-14209.jpg", imageAlt: "Amanda White" }
+            { id: "5", name: "Robert Taylor", handle: "Fleet Operator", testimonial: "Fast turnaround, competitive pricing, and they stand behind their work. Exactly what a business needs.", imageSrc: "http://img.b2bpic.net/free-photo/smiling-young-woman-taking-selfie-photo-winking_1262-18343.jpg?_wi=2", imageAlt: "Robert Taylor" },
+            { id: "6", name: "Amanda White", handle: "Loyal Customer", testimonial: "The team took time to explain what was wrong and what needed to be done. Transparency and professionalism.", imageSrc: "http://img.b2bpic.net/free-photo/man-mechanic-woman-customer-discussing-repairs-done-her-vehicle_146671-14209.jpg?_wi=2", imageAlt: "Amanda White" }
           ]}
           animationType="slide-up"
           textboxLayout="default"
